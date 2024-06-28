@@ -132,7 +132,7 @@ if 'buffer_memory' not in st.session_state:
 
 if "messages" not in st.session_state.keys():
     st.session_state.messages = [
-        {"role": "assistant", "content": "Hi! I can help analyze Form 10-K documents. Ask me anything! 😊"}
+        {"role": "assistant", "content": "Hi! I can help analyze Form 10-K documents of Alphabet Inc., Tesla, Inc., Uber Technologies, Inc.. Ask me anything! 😊"}
     ]
 
 # --- PDF Processing & Vector Store ---
