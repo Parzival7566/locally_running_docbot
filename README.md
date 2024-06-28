@@ -27,6 +27,10 @@ To start the Streamlit application, run:
 streamlit run local-llm-llamacpp.py
 ```
 
+## Output
+
+
+
 ## Features
 
 - **PDF Processing & Vector Store Creation:**
