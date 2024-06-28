@@ -29,7 +29,7 @@ streamlit run local-llm-llamacpp.py
 
 ## Output
 
-
+The output for the app can be seen [here](https://drive.google.com/file/d/1TuIvpYp6P2Q-ai7iIHeTjHBbi6YOwgek/view?usp=sharing). Feel free to use the app yourself!
 
 ## Features
 
