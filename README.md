@@ -14,6 +14,7 @@ pip install -r requirements.txt
 
 1. **Download the Model:**
    - Ensure you have the GGUF model file and place it in the project directory. Update the `MODEL_PATH` in the code if necessary.
+   Note : I personally recommend using the "TheBloke/OpenHermes-2.5-Mistral-7B-GGUF" model on huggingface, as that has provided me with the best output so far. You can view it on hugglingface [here] (https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-GGUF) or you can directly download the model [here] (https://huggingface.co/TheBloke/OpenHermes-2.5-Mistral-7B-GGUF/resolve/main/openhermes-2.5-mistral-7b.Q6_K.gguf?download=true)
 
 2. **Prepare PDF Files:**
    - Place your 10-K PDF files in the `data/` directory.
